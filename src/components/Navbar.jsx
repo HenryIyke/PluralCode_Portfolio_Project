@@ -17,7 +17,7 @@ const Navbar = () => {
         className="flex items-center justify-between gap-[10px] hover:underline underline-offset-2 duration-100 ease-linear"
       >
         <AiOutlineMail />
-        <span> Juadebgabriel@gmail.com</span>
+        <span> realhenryiyke@gmail.com</span>
       </Link>
       <div className="sm:hidden">
         <VscMenu className="text-[25px] cursor-pointer" onClick={toggleMenu} />
