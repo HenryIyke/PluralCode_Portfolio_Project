@@ -11,11 +11,11 @@ const Footer = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 w-full mt-14 style_new">
         <div>
           <span className="flex flex-col items-start justify-start">
-            <Link to="mailto:miaageha83@gmail.com" className="mb-5">
-              miaageha83@gmail.com
+            <Link to="mailto:realhenryiyke@gmail.com" className="mb-5">
+              realhenryiyke@gmail.com
             </Link>
             <span className="text-slate-500">
-              Marunouchi, 100-8994 <br /> Chiyoda-ku, Tokyo. Japan
+              Ikeja, <br /> Lagos, Nigeria
             </span>
           </span>
         </div>
